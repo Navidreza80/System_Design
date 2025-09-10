@@ -45,6 +45,7 @@ Learn: SQL vs NoSQL, Indexing, Sharding, Replication
 Project: Model an E-commerce Database in both SQL and NoSQL
 
 Output: GitHub repo with schema diagrams
+
 Chekout my repo at: https://github.com/Navidreza80/ECommerce_Store_DB_Model
 
 ## Day 5: Caching Strategies
