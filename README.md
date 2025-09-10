@@ -1,5 +1,5 @@
 # System-Design
-In this repository I share you my system design journey with you, with toturials, youtube videos, resources, roadmap and everyhting
+In this repository I share my system design journey with you as a full-stack javascript web developer, with toturials, youtube videos, resources, roadmap and everyhting
 
 # Roadmap
 30-Day System Design Master Plan
