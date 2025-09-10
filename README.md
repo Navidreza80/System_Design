@@ -8,10 +8,32 @@ A structured 30-day curriculum to master system design fundamentals, distributed
 # 📅 Week 1 - Foundations
 ## Days 1-2: System Design Basics
 Learn: Scalability, Latency vs Throughput, High Availability, Fault Tolerance
+### Videos:
+• What's Scalibility? https://youtu.be/EWS_CIxttVw?si=OqD-C38w8v3BFcuu
+
+• Horizantal vs Vertical Scaling https://youtu.be/xpDnVSmNFX0?si=EQEquHarfcJCojI3
+
+• What's Load Balancing? https://youtu.be/K0Ta65OqQkY?si=KCwjezRDxDqZ1mgE
+
+• Throughput vs Latancy:
+
+• https://youtu.be/ryzF1vO7N4w?si=tvV2lGCQXU1KyT61
+
+• https://youtu.be/84ZLMbHefJI?si=CXgrMhxsjZm5J4Qi
+
+• Highly Available Patterns https://youtu.be/LdvduBxZRLs?si=4UJSqpmlogwlgloA
+
+• Fault Tolerant System https://youtu.be/3Lis4w4_bBc?si=vs1XJkWv-cPwXfZ0
+
+• System Design Interview Template https://youtu.be/OWVaX_cBrh8?si=5qQ7dDS4gMX-xQmq
 
 Project: Design Basic Web App Architecture with load balancing, database, and caching
 
-Output: Architecture diagram in Excalidraw/Lucidchart
+Output: Architecture diagram in Excalidraw/Lucidchart/Figma
+<img width="1547" height="628" alt="image" src="https://github.com/user-attachments/assets/35be53f9-bfa3-4c92-b7b4-0376d1f73558" />
+*Simple Blog App Tolerant With My Tech Stack as Full-Stack Js Developer, You Can Tolerate It With Yours*
+
+FigmaJam Link: https://www.figma.com/board/nozVlcKsIzgh0Q2Q65TrTG/Untitled?node-id=0-1&p=f&t=t96S0qW9S7Weeryy-0
 
 ## Days 3-4: Database Systems
 Learn: SQL vs NoSQL, Indexing, Sharding, Replication
