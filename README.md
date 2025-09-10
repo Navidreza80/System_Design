@@ -38,11 +38,14 @@ FigmaJam Link: https://www.figma.com/board/nozVlcKsIzgh0Q2Q65TrTG/Untitled?node-
 ## Days 3-4: Database Systems
 Learn: SQL vs NoSQL, Indexing, Sharding, Replication
 
-• If you have no clue what SQL is, I recommend you to watch this toturial: https://youtu.be/7S_tz1z_5bA?si=1QiLguPJPwXQqqNb
+• If you have no clue what SQL (query language) is, I recommend you to watch this toturial: https://youtu.be/7S_tz1z_5bA?si=1QiLguPJPwXQqqNb
+
+• SQL vs NoSQL https://youtu.be/t0GlGbtMTio?si=qEkJRcoERPhSRLGt
 
 Project: Model an E-commerce Database in both SQL and NoSQL
 
 Output: GitHub repo with schema diagrams
+Chekout my repo at: https://github.com/Navidreza80/ECommerce_Store_DB_Model
 
 ## Day 5: Caching Strategies
 Learn: Redis, CDNs, cache eviction policies
