@@ -30,7 +30,7 @@ Learn: Scalability, Latency vs Throughput, High Availability, Fault Tolerance
 Project: Design Basic Web App Architecture with load balancing, database, and caching
 
 Output: Architecture diagram in Excalidraw/Lucidchart/Figma
-<img width="1387" height="575" alt="image" src="https://github.com/user-attachments/assets/e5dc057c-8f83-4e7e-967c-799a6a578b67" />
+<img width="1362" height="532" alt="image" src="https://github.com/user-attachments/assets/2ac0e711-f4b8-42ab-ab78-5b6a745b73f4" />
 *Simple Blog App Tolerant With My Tech Stack as Full-Stack Js Developer, You Can Tolerate It With Yours*
 
 FigmaJam Link: https://www.figma.com/board/nozVlcKsIzgh0Q2Q65TrTG/Untitled?node-id=0-1&p=f&t=t96S0qW9S7Weeryy-0
