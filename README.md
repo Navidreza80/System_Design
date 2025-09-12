@@ -42,6 +42,8 @@ Learn: SQL vs NoSQL, Indexing, Sharding, Replication
 
 • SQL vs NoSQL https://youtu.be/t0GlGbtMTio?si=qEkJRcoERPhSRLGt
 
+• Replication & sharding explained https://youtu.be/jLEp1XI_L6Q?si=SsQqXD-FBqU8mnB2
+
 Project: Model an E-commerce Database in both SQL and NoSQL
 
 Output: GitHub repo with schema diagrams
