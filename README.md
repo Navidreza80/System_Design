@@ -49,6 +49,8 @@ Project: Model an E-commerce Database in both SQL and NoSQL
 Output: GitHub repo with schema diagrams
 
 Chekout my repo at: https://github.com/Navidreza80/ECommerce_Store_DB_Model
+<img width="1002" height="819" alt="image" src="https://github.com/user-attachments/assets/809cb480-39fa-4ec1-a03d-d023f487edf5" />
+*ECommerce Store DB Model Repository*
 
 ## Day 5: Caching Strategies
 Learn: Redis, CDNs, cache eviction policies
