@@ -59,6 +59,9 @@ Project: Build a Node.js API with Redis cache
 
 Output: Performance benchmarks comparing cached vs non-cached
 
+<img width="1166" height="469" alt="image" src="https://github.com/user-attachments/assets/091866ed-92e2-4f4c-8b39-54de8f89e827" />
+*Express.js backend with mongoDB, cached vs non-cached api calls leveraging redis*
+
 ## Day 6: Load Balancing & Networking
 Learn: DNS, L4/L7 Load Balancing, Nginx, Reverse Proxies
 
