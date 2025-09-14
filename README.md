@@ -65,6 +65,10 @@ Output: Performance benchmarks comparing cached vs non-cached
 ## Day 6: Load Balancing & Networking
 Learn: DNS, L4/L7 Load Balancing, Nginx, Reverse Proxies
 
+• What's DNS? https://youtu.be/27r4Bzuj5NQ?si=2BK3BdM0YGZkI9a7
+
+• L4/L7 Load Balancing https://youtu.be/WHDwVn7mkqA?si=bh0SLN5jC_LD-Lai
+
 Project: Configure Nginx as reverse proxy for a sample API
 
 ## Day 7: Mini Case Study
