@@ -55,7 +55,13 @@ Chekout my repo at: https://github.com/Navidreza80/ECommerce_Store_DB_Model
 ## Day 5: Caching Strategies
 Learn: Redis, CDNs, cache eviction policies
 
-Project: Build a Node.js API with Redis cache
+• Redis crash course https://youtu.be/jgpVdJB2sKQ?si=25vF-xW2OPqDRq12
+
+• What's CDN? https://youtu.be/RI9np1LWzqw?si=ehB_pPHWtYudkCli
+
+• Cache eviction policies https://youtu.be/ZqI7i3v4baQ
+
+• Project: Build a Node.js API with Redis cache
 
 Output: Performance benchmarks comparing cached vs non-cached
 
@@ -68,6 +74,8 @@ Learn: DNS, L4/L7 Load Balancing, Nginx, Reverse Proxies
 • What's DNS? https://youtu.be/27r4Bzuj5NQ?si=2BK3BdM0YGZkI9a7
 
 • L4/L7 Load Balancing https://youtu.be/WHDwVn7mkqA?si=bh0SLN5jC_LD-Lai
+
+• NGINX crash course https://youtu.be/7VAI73roXaY?si=kkBJ9-kFvCRLRNyc
 
 Project: Configure Nginx as reverse proxy for a sample API
 
