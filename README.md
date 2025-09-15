@@ -83,6 +83,10 @@ Project: Configure Nginx as reverse proxy for a sample API
 Design a complete URL Shortener System
 
 Output: Architecture diagram with written trade-offs
+<img width="1038" height="685" alt="image" src="https://github.com/user-attachments/assets/89161e6a-cd6f-44dc-974c-3d63d52bb4e3" />
+*URL Shortener System Design*
+
+FigmaJam Link: https://www.figma.com/board/mO2wKwjiVOCQS2p34HUBVJ/Untitled?node-id=0-1&p=f&t=v9L0k6VSgG103dXE-0
 
 # 📅 Week 2 - Distributed Systems
 Goal: Master how large-scale systems operate
