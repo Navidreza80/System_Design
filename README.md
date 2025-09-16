@@ -94,6 +94,12 @@ Goal: Master how large-scale systems operate
 ## Days 8-9: Distributed Systems Fundamentals
 Learn: CAP theorem, Consistency models, Leader election, Raft
 
+• What's CAP theorem? https://youtu.be/BHqjEjzAicA?si=VUGRIeksGnsVX8Gq
+
+• Consistency models https://youtu.be/Fm8iUFM2iWU?si=EXTk65NGCSiaFUtn
+
+• Leader election https://youtu.be/TzwiGTbUSHg?si=FyII12SOCRLy79LF
+
 Project: Implement a leader election simulation in JavaScript
 
 ## Day 10: Data Partitioning
