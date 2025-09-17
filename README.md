@@ -100,6 +100,8 @@ Learn: CAP theorem, Consistency models, Leader election, Raft
 
 • Leader election https://youtu.be/TzwiGTbUSHg?si=FyII12SOCRLy79LF
 
+• RAFT algorithm https://youtu.be/IujMVjKvWP4?si=NR1MpDivDJ3wfloq
+
 Project: Implement a leader election simulation in JavaScript
 
 ## Day 10: Data Partitioning
