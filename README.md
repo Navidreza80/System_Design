@@ -115,6 +115,9 @@ Learn: Sharding strategies, Consistent Hashing
 
 Project: Build consistent hashing implementation for data distribution
 
+<img width="1636" height="656" alt="image" src="https://github.com/user-attachments/assets/27870095-418d-4f77-946c-ce72f84472b9" />
+*I implemeneted Express.js + locally hosted postgres DB to test 3-sharding distribution by docker*
+
 ## Days 11-12: Messaging Systems
 Learn: Kafka, RabbitMQ, Pub/Sub patterns, Event-driven architecture
 
