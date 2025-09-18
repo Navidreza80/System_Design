@@ -107,6 +107,12 @@ Project: Implement a leader election simulation in JavaScript
 ## Day 10: Data Partitioning
 Learn: Sharding strategies, Consistent Hashing
 
+• What's sharding? https://youtu.be/be6PLMKKSto?si=mGxZG_v7fb1m6mYd
+
+• Sharding strategies? https://youtu.be/JepwOrjeLnk?si=FPVx7Qzw7NAzKEf1
+
+• Consistant hasing https://youtu.be/UF9Iqmg94tk?si=DYhMlamu3T3v1PVD
+
 Project: Build consistent hashing implementation for data distribution
 
 ## Days 11-12: Messaging Systems
