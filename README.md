@@ -121,6 +121,8 @@ Project: Build consistent hashing implementation for data distribution
 ## Days 11-12: Messaging Systems
 Learn: Kafka, RabbitMQ, Pub/Sub patterns, Event-driven architecture
 
+• What's Kafka? https://youtu.be/-RDyEFvnTXI?si=O8H3-q9S8_VJbOBT
+
 Project: Create a notification system with Kafka or Node.js simulation
 
 ## Day 13: Advanced Patterns
