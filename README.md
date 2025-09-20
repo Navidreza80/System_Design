@@ -52,9 +52,6 @@ Chekout my repo at: https://github.com/Navidreza80/ECommerce_Store_DB_Model
 <img width="1002" height="819" alt="image" src="https://github.com/user-attachments/assets/809cb480-39fa-4ec1-a03d-d023f487edf5" />
 *ECommerce Store DB Model Repository*
 
-https://github.com/Navidreza80/event-driven-architecture
-*Repo*
-
 ## Day 5: Caching Strategies
 Learn: Redis, CDNs, cache eviction policies
 
@@ -136,6 +133,9 @@ Project: Create a notification system with Kafka or Node.js simulation
 
 <img width="1915" height="1018" alt="image" src="https://github.com/user-attachments/assets/eb53208b-b5c5-42b0-bac0-db1a0e973d3e" />
 *Producer/Consumer simulation using Kafka, Zookeeper & Node.js*
+
+https://github.com/Navidreza80/event-driven-architecture
+*Repo*
 
 ## Day 13: Advanced Patterns
 Learn: Event Sourcing, CQRS pattern
