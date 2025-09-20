@@ -123,6 +123,12 @@ Learn: Kafka, RabbitMQ, Pub/Sub patterns, Event-driven architecture
 
 • What's Kafka? https://youtu.be/-RDyEFvnTXI?si=O8H3-q9S8_VJbOBT
 
+• RebbitMQ vs Kafka https://youtu.be/PQHf_IzmUXE?si=gA_SrbSK6UR8LTIY
+
+• Pub/Sub patterns https://youtu.be/FMhbR_kQeHw?si=_izv-7SMfumBiAsR
+
+• Event-driven architecture https://youtu.be/rJHTK2TfZ1I?si=mziv2AahPuZUiSV_
+
 Project: Create a notification system with Kafka or Node.js simulation
 
 ## Day 13: Advanced Patterns
