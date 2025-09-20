@@ -131,6 +131,9 @@ Learn: Kafka, RabbitMQ, Pub/Sub patterns, Event-driven architecture
 
 Project: Create a notification system with Kafka or Node.js simulation
 
+<img width="1915" height="1018" alt="image" src="https://github.com/user-attachments/assets/eb53208b-b5c5-42b0-bac0-db1a0e973d3e" />
+*Producer/Consumer simulation using Kafka, Zookeeper & Node.js*
+
 ## Day 13: Advanced Patterns
 Learn: Event Sourcing, CQRS pattern
 
