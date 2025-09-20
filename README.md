@@ -52,6 +52,9 @@ Chekout my repo at: https://github.com/Navidreza80/ECommerce_Store_DB_Model
 <img width="1002" height="819" alt="image" src="https://github.com/user-attachments/assets/809cb480-39fa-4ec1-a03d-d023f487edf5" />
 *ECommerce Store DB Model Repository*
 
+https://github.com/Navidreza80/event-driven-architecture
+*Repo*
+
 ## Day 5: Caching Strategies
 Learn: Redis, CDNs, cache eviction policies
 
