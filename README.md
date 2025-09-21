@@ -140,7 +140,13 @@ https://github.com/Navidreza80/event-driven-architecture
 ## Day 13: Advanced Patterns
 Learn: Event Sourcing, CQRS pattern
 
+• Event sourcing https://youtu.be/ID-_ic1fLkY?si=wBFxm7i9Pm3YIZDE
+
+• CQRS https://youtu.be/SvjdJoNPcHs?si=rmSO5uHCAtJRnENe
+
 Project: Design an Order Management System using CQRS
+
+<img width="1060" height="594" alt="image" src="https://github.com/user-attachments/assets/d72c9865-69c8-4032-98da-d336fb10df25" />
 
 ## Day 14: Case Study
 Design a WhatsApp Messaging System with delivery guarantees
