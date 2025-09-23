@@ -151,11 +151,15 @@ Project: Design an Order Management System using CQRS
 ## Day 14: Case Study
 Design a WhatsApp Messaging System with delivery guarantees
 
+<img width="1050" height="744" alt="image" src="https://github.com/user-attachments/assets/062d6e82-aff0-48c7-8fcd-772e11b922a9" />
+
 # 📅 Week 3 - Microservices & Advanced Architecture
 Goal: Progress from monoliths to enterprise-scale systems
 
 ## Days 15-16: Microservices Architecture
 Learn: Monoliths vs Microservices, Service Discovery, API Gateways
+
+• Monoliths vs Microservices https://youtu.be/NdeTGlZ__Do?si=aAraicc7bFDmhmzs
 
 Project: Develop User and Product microservices with API Gateway
 
