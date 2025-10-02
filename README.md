@@ -175,7 +175,15 @@ But I kept it locally with docker
 ## Day 17: Resilience Patterns
 Learn: Circuit Breakers, Rate Limiting, Backoff strategies
 
+• Circuit Breakers https://youtu.be/dJI2saoM5_k?si=bkq1MMGISjNgR3Lx
+
+• Rate Limiting https://youtu.be/_qNHROq0pGk?si=r6yKWn1-poTP8gm6
+
+• Backoff strategies https://youtu.be/i13aUgp9rcY?si=j4OcqfLOO1YUTrns
+
 Project: Implement token bucket rate limiting in Node.js
+
+Watch this video to create a project with rate limits using redis & node.js https://youtu.be/RgPKPquStF0?si=UzVaH-77pGIr38J7
 
 ## Days 18-19: Observability
 Learn: Logging, Metrics, Distributed Tracing
