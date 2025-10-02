@@ -161,7 +161,16 @@ Learn: Monoliths vs Microservices, Service Discovery, API Gateways
 
 • Monoliths vs Microservices https://youtu.be/NdeTGlZ__Do?si=aAraicc7bFDmhmzs
 
+• Service discovery https://youtu.be/ecuEkmFs5Vk?si=U4b0fUOz4uvasKkK
+
+• API gateway https://youtu.be/6ULyxuHKxg8?si=x4eZwx0-rRc3WlQV
+
 Project: Develop User and Product microservices with API Gateway
+
+I recommend you to watch this vide toturial to master microservices in Node.js: https://youtu.be/EXDkgjU8DDU?si=FiaY2S_enByyNXQ8
+Also I have a solid project following this videos
+You can deploy you MS to AWS
+But I kept it locally with docker
 
 ## Day 17: Resilience Patterns
 Learn: Circuit Breakers, Rate Limiting, Backoff strategies
