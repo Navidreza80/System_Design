@@ -188,10 +188,18 @@ Watch this video to create a project with rate limits using redis & node.js http
 ## Days 18-19: Observability
 Learn: Logging, Metrics, Distributed Tracing
 
+• High thoughput logging system https://youtu.be/ak1wTYq_opQ?si=BVqrpNulTv6DDqvg
+
+• Latency metrics https://youtu.be/lJ4NEMNBeS4?si=_qn4JUD93sLzo1IX
+
+• Distributed Tracing https://youtu.be/XYvQHjWJJTE?si=e1LtEsQKrQQhgQT_
+
 Project: Set up Prometheus and Grafana for microservices monitoring
 
 ## Day 20: API Design
 Learn: REST vs GraphQL, API versioning strategies
+
+• Rest vs GraphQL https://youtu.be/yWzKJPw_VzM?si=gjDsTudBYR4OUVXa
 
 Project: Create dual REST/GraphQL endpoints for your microservices
 
