@@ -201,10 +201,18 @@ Learn: REST vs GraphQL, API versioning strategies
 
 • Rest vs GraphQL https://youtu.be/yWzKJPw_VzM?si=gjDsTudBYR4OUVXa
 
+• API versioning https://youtu.be/42J4KMHUJjE?si=dt23h4AcGYDUJAoH
+
 Project: Create dual REST/GraphQL endpoints for your microservices
+
+<img width="1919" height="860" alt="image" src="https://github.com/user-attachments/assets/47f734f0-4e96-41d9-9ced-611b55c89a8a" />
+*GraphQL API With Node.js*
 
 ## Day 21: Case Study
 Design a Twitter News Feed System with timeline and content ranking
+
+<img width="1352" height="570" alt="image" src="https://github.com/user-attachments/assets/cff1c7bb-2819-44ec-91d3-313e07aa8906" />
+*Twitter System Design*
 
 # 📅 Week 4 - Production Systems & Portfolio
 Goal: Build your portfolio and prepare for interviews
