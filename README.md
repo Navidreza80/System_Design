@@ -220,7 +220,17 @@ Goal: Build your portfolio and prepare for interviews
 ## Days 22-23: Reliability & Security
 Learn: SLAs/SLOs, Retry mechanisms, Chaos engineering, OAuth/JWT
 
+• SLAs/SLOs https://youtu.be/pouVbehfnqQ?si=iz7Gqxv06rtO_vca
+
+• Retry patterns https://youtu.be/5sr0lD3YUyA?si=Xnc-QhkpZGTpKfpo
+
+• Chaos engineering https://youtu.be/mfEMXKSFtaQ?si=I_6M7mBlKa6uA7V7
+
+• OAuth/JWT https://youtu.be/xJA8tP74KD0?si=eZCy282kSYh_AFR1
+
 Project: Add JWT authentication to your microservices
+
+*I've done this previously in my ms projects*
 
 ## Days 24-25: Global-Scale Systems
 Learn: Multi-region deployment, CDNs, Data replication
