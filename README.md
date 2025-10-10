@@ -237,6 +237,8 @@ Learn: Multi-region deployment, CDNs, Data replication
 
 Project: Design Netflix Streaming Architecture
 
+- source: https://bytebytego.com/courses/system-design-interview/design-youtube
+
 ## Days 26-27: Advanced Case Studies
 Design Uber Ride Matching with surge pricing
 
